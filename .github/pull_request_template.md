@@ -55,6 +55,7 @@ If yes, describe the impact and migration path:
 - [ ] I have updated the documentation
 - [ ] I have added a changelog entry
 - [ ] Breaking changes are documented with migration path
+- [ ] I have signed the Eclipse Contributor Agreement (ECA)
 
 ## Reviewer Notes
 

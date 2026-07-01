@@ -40,6 +40,17 @@ Good places to reach out:
 Opening a pull request
 -----------------------
 
+.. note::
+
+   **Eclipse Contributor Agreement (ECA)**
+
+   Before your first contribution can be accepted, you must sign the Eclipse
+   Contributor Agreement (ECA), a one-time legal agreement with the Eclipse
+   Foundation. To sign, visit https://accounts.eclipse.org/user/eca.
+
+   Make sure the email address associated with your GitHub account matches
+   the one on your ECA record, otherwise the CI check will fail.
+
 Before opening a PR, run the test suite for the subsystem(s) you modified. 
 For example, if the changes you made affected the functionality in the ``circuit`` module, run:
 
