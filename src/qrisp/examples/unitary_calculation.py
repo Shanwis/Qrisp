@@ -44,7 +44,7 @@ qc.qubits = qc.qubits[::-1]
 qiskit_qc = convert_to_qiskit(qc)
 
 
-backend = AerSimulator(method='unitary')
+backend = AerSimulator(method="unitary")
 
 start = time.time()
 qiskit_qc.save_unitary()

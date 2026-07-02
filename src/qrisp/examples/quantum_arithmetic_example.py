@@ -48,7 +48,7 @@ qc.qubits.reverse()
 qiskit_qc = qc.to_qiskit()
 
 start_time = time.time()
-simulator = AerSimulator(method='statevector')
+simulator = AerSimulator(method="statevector")
 qiskit_qc.save_statevector()
 result = simulator.run(qiskit_qc).result()
 qiskit_res = result.get_statevector(qiskit_qc).data
