@@ -117,5 +117,8 @@ ignore = [
     "D415",  # ends-in-punctuation
 ]
 
+[tool.coverage.run]
+omit = ["*/__init__.py"]
+
 [tool.pylint. messages_control]
 disable = ["import-error"]
