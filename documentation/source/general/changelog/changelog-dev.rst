@@ -41,6 +41,9 @@ API Changes
 Development
 -----------
 
+* Added Dependabot configuration for automated dependency updates
+  (grouped by type, with labels applied automatically).
+
 * Added a changelog reminder workflow, the ``make release-notes`` script,
   a developer changelog (``changelog-dev.rst``), a release guide,
   and fixed the workflow permissions to allow posting PR comments
