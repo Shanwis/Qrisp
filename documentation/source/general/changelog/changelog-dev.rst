@@ -46,9 +46,11 @@ Development
 
 * Added a changelog reminder workflow, the ``make release-notes`` script,
   a developer changelog (``changelog-dev.rst``), a release guide,
-  and fixed the workflow permissions to allow posting PR comments
+  fixed the workflow permissions to allow posting PR comments,
+  and skipped the check for Dependabot PRs
   (`PR #658 <https://github.com/eclipse-qrisp/Qrisp/pull/658>`_,
-  `PR #715 <https://github.com/eclipse-qrisp/Qrisp/pull/715>`_).
+  `PR #715 <https://github.com/eclipse-qrisp/Qrisp/pull/715>`_,
+  `PR #727 <https://github.com/eclipse-qrisp/Qrisp/pull/727>`_).
 
 * Added pip dependency caching to the CI test workflow
   (`PR #685 <https://github.com/eclipse-qrisp/Qrisp/pull/685>`_).
