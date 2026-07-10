@@ -23,7 +23,7 @@ concurrency:
 jobs:
   remind:
     runs-on: ubuntu-latest
-    if: github.event_name == 'pull_request'
+    if: github.event_name == 'pull_request' && github.actor != 'dependabot[bot]'
     steps:
       # Checkout full history so git diff against the base ref works
       - uses: actions/checkout@v7
