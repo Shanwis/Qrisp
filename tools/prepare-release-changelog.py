@@ -200,10 +200,15 @@ New Tutorials / Updated Documentation
 
 .. Add new tutorials / updated documentation above this line
 
-UI Changes
-----------
+API Changes
+-----------
 
-.. Add UI changes above this line
+.. Add API changes above this line
+
+Development
+-----------
+
+.. Add development changes above this line
 
 First Time Contributors 🎉
 --------------------------
