@@ -12,7 +12,8 @@ on:
       - main
 
 permissions:
-  pull-requests: write  # needed to post/update PR comments
+  issues: write         # needed to post/update PR comments via the Issues API
+  pull-requests: write  # needed for PR metadata
 
 # Cancel in-progress runs for the same ref (e.g., on new pushes to a PR)
 concurrency:
