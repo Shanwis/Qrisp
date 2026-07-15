@@ -158,7 +158,7 @@ html_theme_options = {
     ],
     "logo": {
         "image_light": "../../logo/qrisp_logo.png",
-        "image_dark": "../../logo/logo_with_contour.png",
+        "image_dark": "../../logo/qrisp_logo_with_contour.png",
     },
 }
 html_sidebars = {
