@@ -156,6 +156,10 @@ html_theme_options = {
         "dynamic_sidebar.html",
         "thebe_button.html",
     ],
+    "logo": {
+        "image_light": "../../logo/qrisp_logo.png",
+        "image_dark": "../../logo/logo_with_contour.png",
+    },
 }
 html_sidebars = {
     "**": ["sidebar-nav-bs"],
@@ -185,9 +189,6 @@ html_static_path = ["_static"]
 html_show_sourcelink = False
 
 html_favicon = "../../logo/qrisp_favicon.png"
-
-# html_logo = "../../logo/logo_extended.png"
-html_logo = "../../logo/qrisp_logo.png"
 
 
 add_module_names = False
