@@ -150,6 +150,7 @@ html_theme_options = {
     "search_bar_text": "Search the docs... ",
     # "navbar_align": "content",
     "pygment_light_style": "lovelace",
+    "pygment_dark_style": "monokai",
     "secondary_sidebar_items": [
         "page-toc.html",
         "discord_link.html",

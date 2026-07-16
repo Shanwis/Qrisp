@@ -338,6 +338,11 @@ html[data-theme="dark"] #dive-into-qrisp-code {
 }
 
 /* ===== PARTNER LOGOS ===== */
+#who-is-behind-qrisp .sd-card,
+#who-is-behind-qrisp .sd-card-body {
+    background: #ffffff !important;
+}
+
 #who-is-behind-qrisp .sd-card {
     transition: all 0.3s ease;
     border-radius: 12px !important;

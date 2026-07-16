@@ -474,20 +474,20 @@ Qrisp is an open-source project developed across organizations. We are open to a
     
     <div class="logo-slider">
         <div class="logo-track">
-        <div class="slide"><img src="./_static/FMF_UL_logo.svg" alt="Faculty of Mathematics and Physics, University of Ljubljana logo"></div>
-        <div class="slide"><img src="./_static/FRI_UL_logo.png" alt="Faculty of Computer and Information Science, University of Ljubljana logo"></div>
+        <div class="slide"><img class="only-light" src="./_static/FMF_UL_logo.svg" alt="Faculty of Mathematics and Physics, University of Ljubljana logo"><img class="only-dark" src="./_static/FMF_UL_logo_dark.png" alt="Faculty of Mathematics and Physics, University of Ljubljana logo"></div>
+        <div class="slide"><img class="only-light" src="./_static/FRI_UL_logo.png" alt="Faculty of Computer and Information Science, University of Ljubljana logo"><img class="only-dark" src="./_static/FRI_UL_logo_dark.png" alt="Faculty of Computer and Information Science, University of Ljubljana logo"></div>
         <div class="slide"><img src="./_static/ORNL_logo.png" alt="Oak Ridge National Laboratory logo"></div>
         
-        <div class="slide"><img src="./_static/FMF_UL_logo.svg" alt=""></div>
-        <div class="slide"><img src="./_static/FRI_UL_logo.png" alt=""></div>
+        <div class="slide"><img class="only-light" src="./_static/FMF_UL_logo.svg" alt=""><img class="only-dark" src="./_static/FMF_UL_logo_dark.png" alt=""></div>
+        <div class="slide"><img class="only-light" src="./_static/FRI_UL_logo.png" alt=""><img class="only-dark" src="./_static/FRI_UL_logo_dark.png" alt=""></div>
         <div class="slide"><img src="./_static/ORNL_logo.png" alt=""></div>
 
-        <div class="slide"><img src="./_static/FMF_UL_logo.svg" alt=""></div>
-        <div class="slide"><img src="./_static/FRI_UL_logo.png" alt=""></div>
+        <div class="slide"><img class="only-light" src="./_static/FMF_UL_logo.svg" alt=""><img class="only-dark" src="./_static/FMF_UL_logo_dark.png" alt=""></div>
+        <div class="slide"><img class="only-light" src="./_static/FRI_UL_logo.png" alt=""><img class="only-dark" src="./_static/FRI_UL_logo_dark.png" alt=""></div>
         <div class="slide"><img src="./_static/ORNL_logo.png" alt=""></div>
 
-        <div class="slide"><img src="./_static/FMF_UL_logo.svg" alt=""></div>
-        <div class="slide"><img src="./_static/FRI_UL_logo.png" alt=""></div>
+        <div class="slide"><img class="only-light" src="./_static/FMF_UL_logo.svg" alt=""><img class="only-dark" src="./_static/FMF_UL_logo_dark.png" alt=""></div>
+        <div class="slide"><img class="only-light" src="./_static/FRI_UL_logo.png" alt=""><img class="only-dark" src="./_static/FRI_UL_logo_dark.png" alt=""></div>
         <div class="slide"><img src="./_static/ORNL_logo.png" alt=""></div>
         </div>
     </div>
